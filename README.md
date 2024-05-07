@@ -1,5 +1,5 @@
 # Digital-Cricket-Score-Bored-Analytics
-In this app i make one digital cricket score bored app in this app you can enter real time data of match and after match you can see there see match analytics.
+In this app, I made a digital cricket scoreboard app where you can enter real-time data of a match and after a match, you can see there see match analytics.
 
 ![Screenshot (63)](https://github.com/Suresh-1516/Digital-Cricket-Score-Bored-Analytics/assets/112805852/1e504bb8-a066-4bb9-8507-9769f1245269)
 ![Screenshot (64)](https://github.com/Suresh-1516/Digital-Cricket-Score-Bored-Analytics/assets/112805852/0506ef15-9d86-409e-8bc0-dec12a0649f2)
