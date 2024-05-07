@@ -1,6 +1,10 @@
 # Digital-Cricket-Score-Bored-Analytics
 In this app, I made a digital cricket scoreboard app where you can enter real-time data of a match and after a match, you can see there see match analytics.
 
+
+🔗LINK OF EXE FILE: https://drive.google.com/file/d/1G9Gm3iD-Xvri5T-o2iU28qhui0lg3MAV/view?usp=drivesdk
+
+
 ![Screenshot (63)](https://github.com/Suresh-1516/Digital-Cricket-Score-Bored-Analytics/assets/112805852/1e504bb8-a066-4bb9-8507-9769f1245269)
 ![Screenshot (64)](https://github.com/Suresh-1516/Digital-Cricket-Score-Bored-Analytics/assets/112805852/0506ef15-9d86-409e-8bc0-dec12a0649f2)
 ![Screenshot (65)](https://github.com/Suresh-1516/Digital-Cricket-Score-Bored-Analytics/assets/112805852/4fb576f1-216e-4d14-ba7b-5aa45d77e59c)
